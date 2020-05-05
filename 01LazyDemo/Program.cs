@@ -10,6 +10,7 @@ namespace _01LazyDemo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("tttestss");
         }
     }
 }
